@@ -1,2 +1,2 @@
 # Coding
-Solving east to hard coding problems
+Solving easy to hard coding problems
