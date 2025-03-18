@@ -1,2 +1,2 @@
 # Coding
-Solving easy to hard coding problems
+Solving LeetCode problems
